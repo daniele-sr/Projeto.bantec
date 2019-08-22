@@ -1,2 +1,2 @@
-# Projeto.bantec
+# Projeto
 Teste com Arduino
